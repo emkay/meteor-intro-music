@@ -1,0 +1,14 @@
+{
+  "name": "meteor-intro-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "author": "Michael Matuzak",
+  "license": "MIT",
+  "dependencies": {
+    "nesly-sound": "^2.7.0"
+  }
+}
